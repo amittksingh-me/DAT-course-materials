@@ -45,9 +45,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: X (x)
+**Instructor**: Greg Baker
 
-**Assistant**: X (x)
+**Assistants**: Patrick Wales-Dinan, Prasanth Thangavel
 
 ---
 
@@ -224,7 +224,8 @@ You will get structured guidance and designated time to work throughout the cour
 <a id='slack'></a>
 ## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
 
-We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
+We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is
+ga-ds.slack.com #ind-datr-2-24
 
 **Pro Tip**: If you've never used Slack before, check out these resources:
 - [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
@@ -233,21 +234,15 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 
 ---
 
-<a id='expectations'></a>
-## Expectations
-
-[Add specific local market attendance, student policy, and parking expectations here](X)
-
----
 
 <a id='hours'></a>
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Instructor's Office Hours - Day, Time (or by Appointment)
-* Assistant's Office Hours - Day, Time (or by Appointment)
+* Instructor's Office Hours - TBC
+* Assistant's Office Hours - TBC
 
-Slack us or post in our #officehours channel to reserve a time-slot!
+Slack us or post in the channel to reserve a time-slot!
 
 ---
 
@@ -256,7 +251,6 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Insert specific VTS/Exit Ticket details here](X)
 
 ### Contribution Guidelines
 
