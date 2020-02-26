@@ -23,8 +23,8 @@ Here is the schedule we will be following for our part time data science course:
 Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
 [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
-[Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
-[Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
+[Python Foundations][1-1B]                      | Unit 1 | Session 2 |
+[Your Development Environment][1-1C]            | Unit 1 | Session 3 |
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1E]     | Unit 2 | Session 5 | 
@@ -47,8 +47,8 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 [Final Project Presentations][1-1T]             | Unit 4 | Session 20 | 
 
 [1-1A]: ./required/welcome-to-data-science/
-[1-1B]: ./required/development-environment/
-[1-1C]: ./required/python-foundations/
+[1-1B]: ./required/python-foundations/
+[1-1C]: ./required/development-environment/
 
 [1-1E]: ./required/exploratory-data-analysis/
 [1-1F]: ./required/experiments-hypothesis-tests/
