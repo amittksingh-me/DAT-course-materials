@@ -9,9 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Required questions and Bonus prompts | [Here](./project-code-challenge.ipynb) |
-| Solution Code | Sample solutions for all required sections | [Here](https://git.generalassemb.ly/data-part-time/instructor-materials/tree/master/04-project-solutions/project-code-challenge-solutions) |
 
-> Note: Instructors should withhold providing project solutions until students have submitted their drafts. 
+> Note: Instructors should withhold providing project solutions until students have submitted their drafts.
 
 
 ---
@@ -55,8 +54,6 @@ Score | Expectations
 
 ## Submission
 
-Your instructor will explain how to submit your assignment. Typically, this is done either by:
+Your instructor will explain how to submit your assignment.
 
-- Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor.
-[or]
-- Forking the project repository, adding your solutions, and submitting a pull request back to the relevant repo.
+(TBC)
