@@ -28,16 +28,14 @@ Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
 [Exploratory Data Analysis in Pandas][1-1C]     | Unit 2 | Session 3 |
 [Data Visualization in Python][1-1D]            | Unit 2 | Session 4 |
-[Statistics in Python][1-1E]                    | Unit 2 | Session 5 |
-[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 6 |
-FLEX: Project Workshop + Presentations          | Unit 2 | Session 7 |
---- | ---  | ---  |
-[Linear Regression][1-1J]                       | Unit 3 | Session 8 |
-[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 9 |
-[Robust Regression][1-1L]                       | Unit 3 | Session 10 |
-[KNN / Classification][1-1M]                    | Unit 3 | Session 11 |
-[Decision Trees][1-1N]                          | Unit 3 | Session 12 |
-[Logistic Regression][1-1O]                     | Unit 3 | Session 13 |
+[Linear Regression][1-1J]                       | Unit 3 | Session 5 |
+[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 6 |
+[Statistics in Python][1-1E]                    | Unit 2 | Session 7 |
+[Robust Regression][1-1L]                       | Unit 3 | Session 8 |
+[KNN / Classification][1-1M]                    | Unit 3 | Session 9 |
+[Decision Trees][1-1N]                          | Unit 3 | Session 10 |
+[Logistic Regression][1-1O]                     | Unit 3 | Session 11 |
+[Experiments & Hypothesis Testing][1-1F]        | Unit 2 | Session 12 |
 --- | ---  | ---  |
 [Working With Data: APIs][1-1P]                 | Unit 4 | Session 14 |
 [Intro to Natural Language Processing][1-1Q]    | Unit 4 | Session 15 |
