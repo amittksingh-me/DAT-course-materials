@@ -80,9 +80,9 @@ Lesson  | Unit Number | Session Number |
 [Data Visualization in Python][1-1D]            | Unit 2 | Session 4 |
 --- | ---  | ---  |
 [Linear Regression][1-1J]                       | Unit 3 | Session 5 |
-[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 6 |
-[Statistics in Python][1-1E]                    | Unit 2 | Session 7 |
-[Robust Regression][1-1L]                       | Unit 3 | Session 8 |
+[Robust Regression][1-1L]                       | Unit 3 | Session 6 |
+[Train-Test Split & Bias-Variance][1-1K]        | Unit 3 | Session 7 |
+[Statistics in Python][1-1E]                    | Unit 2 | Session 8 |
 [KNN / Classification][1-1M]                    | Unit 3 | Session 9 |
 [Decision Trees][1-1N]                          | Unit 3 | Session 10 |
 [Logistic Regression][1-1O]                     | Unit 3 | Session 11 |
