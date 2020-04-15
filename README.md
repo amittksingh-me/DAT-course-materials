@@ -169,11 +169,11 @@ You will get structured guidance and designated time to work throughout the cour
 
 - Project 1: Due 11th March
 - Project 2: Due 25th March
-- Project 3: Due 8th April
+- Project 3: Due 25th April
 - Project 4 (Final):
 	- Proposal + Dataset: Due 25th March
-	- Initial EDA Brief: Due 8th April
-	- Presentation: Due 29th April or 4th May
+	- Initial EDA Brief: Due 25th April
+	- Presentation: Due 13th May or 18th May
 
 ---
 
