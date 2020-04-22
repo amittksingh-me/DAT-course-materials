@@ -43,16 +43,15 @@ You will get structured guidance and designated time to work throughout the cour
 
 ---
 
-## Standard Project Schedule
+## Project Schedule
 
-- Project 1: Due @ End of Unit 1
-- Project 2: Due @ End of Unit 2
-- Project 3: Due @ End of Unit 3
+- Project 1: Due 11th March
+- Project 2: Due 25th March
+- Project 3: Due 8th April
 - Project 4 (Final):
-    - Proposal + Dataset: Due @ End of Unit 2
-    - Initial EDA Brief: Due @ End of Unit 3
-    - Technical Report: Due @ End of Unit 4
-    - Presentation: Due @ End of Unit 4
+    - Proposal + Dataset: Due 25th March
+    - Initial EDA Brief: Due 8th April
+    - Presentation: Due 29th April or 4th May
 
 ---
 
